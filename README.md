@@ -8,6 +8,8 @@ Safia W
 
 Russell M
 
+A link to our Github repository can be found [here](https://github.com/russ-13/react-tutal)
+
 ## Description (R1)
 
 **Overview**
